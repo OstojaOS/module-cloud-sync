@@ -1,0 +1,106 @@
+[
+  {
+    "key": "server0",
+    "en": "Transfer stopped; review the task before resuming."
+  },
+  {
+    "key": "server1",
+    "en": "Cloud operation failed. Check account access, folder availability and quota; reconnect if necessary."
+  },
+  {
+    "key": "server2",
+    "en": "Account authorization expired or access was denied. Reconnect the account."
+  },
+  {
+    "key": "server3",
+    "en": "Cloud change cursor expired. Reconnect the account to rebuild it."
+  },
+  {
+    "key": "server4",
+    "en": "Cloud is unreachable; retry later."
+  },
+  {
+    "key": "server5",
+    "en": "Cloud rate limit reached. Checks will resume with backoff."
+  },
+  {
+    "key": "server6",
+    "en": "Local volume changed or is unavailable; reconnect the original volume"
+  },
+  {
+    "key": "server7",
+    "en": "Local volume changed or is unavailable"
+  },
+  {
+    "key": "server8",
+    "en": "Local folder is unavailable"
+  },
+  {
+    "key": "server9",
+    "en": "Local folder must exist and be writable by your Linux user"
+  },
+  {
+    "key": "server10",
+    "en": "Local sync folders must not overlap"
+  },
+  {
+    "key": "server11",
+    "en": "Cloud sync folders must not overlap"
+  },
+  {
+    "key": "server12",
+    "en": "For the first two-way sync, one folder must be empty. Use a new folder to avoid initial conflicts."
+  },
+  {
+    "key": "server13",
+    "en": "Use a local Linux filesystem; network mounts and removable FAT/NTFS are not supported in this prototype."
+  },
+  {
+    "key": "server14",
+    "en": "Reconnect using the same cloud account"
+  },
+  {
+    "key": "server15",
+    "en": "Remove tasks before disconnecting this account"
+  },
+  {
+    "key": "server16",
+    "en": "Pause the task and wait for the transfer to stop"
+  },
+  {
+    "key": "server17",
+    "en": "A transfer is running. Pause it before changing connections or browsing cloud folders."
+  },
+  {
+    "key": "server18",
+    "en": "Transfer interrupted; review before resuming."
+  },
+  {
+    "key": "server19",
+    "en": "Cloud check failed; retrying later."
+  },
+  {
+    "key": "server20",
+    "en": "Synchronization failed; review before retrying."
+  },
+  {
+    "key": "server21",
+    "en": "Task created"
+  },
+  {
+    "key": "server22",
+    "en": "Task removed; local and cloud files preserved"
+  },
+  {
+    "key": "server23",
+    "en": "Synchronization completed"
+  },
+  {
+    "key": "server24",
+    "en": "Safety check stopped the task: too many files changed or were deleted. Review both folders before retrying."
+  },
+  {
+    "key": "server25",
+    "en": "Two-way sync history requires recovery. Preserve both folders and create a new task with an empty destination; automatic reset is disabled."
+  }
+]
